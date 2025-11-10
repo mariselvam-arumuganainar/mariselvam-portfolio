@@ -8,11 +8,11 @@ Fast, animated, and designed for impact — this portfolio blends **React**, **G
 
 <br/>
 <div>
-  <img src="https://github.com/user-attachments/assets/4eaf9399-fd02-4a90-83f7-2b5a361bc032" alt="Hero Preview" style="border-radius: 8px;"/>
+  <img src="https://github.com/mariselvam-arumuganainar/mariselvam-portfolio/issues/1#issue-3606518080" alt="Hero Preview" style="border-radius: 8px;"/>
   <div style="display: flex; justify-content: space-between; margin: 20px 0;">
-    <img src="https://github.com/user-attachments/assets/155bf742-b24f-4119-89f4-87e6d88c8f53" alt="Work Preview" style="width: 32%; border-radius: 8px;"/>
+    <img src="https://github.com/mariselvam-arumuganainar/mariselvam-portfolio/issues/2#issue-3606522523" alt="Work Preview" style="width: 32%; border-radius: 8px;"/>
     <img src="https://github.com/user-attachments/assets/f22b9749-85ed-434f-a5f6-df1f8e221103" alt="Contact Summary" style="width: 32%; border-radius: 8px;"/>
-    <img src="https://github.com/user-attachments/assets/3e473322-b96a-433b-aec5-ece9bab25795" alt="Contact" style="width: 32%; border-radius: 8px;"/>
+    <img src="https://github.com/mariselvam-arumuganainar/mariselvam-portfolio/issues/3#issue-3606523602" alt="Contact" style="width: 32%; border-radius: 8px;"/>
   </div>
 </div>
 
