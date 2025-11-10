@@ -8,7 +8,7 @@ Fast, animated, and designed for impact — this portfolio blends **React**, **G
 
 <br/>
 <div>
-  <img src="https://github.com/mariselvam-arumuganainar/mariselvam-portfolio/issues/1#issue-3606518080" alt="Hero Preview" style="border-radius: 8px;"/>
+  <img src="https://private-user-images.githubusercontent.com/226238675/512017118-9543916f-4a18-425a-b940-c3562c128438.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI3NjAwNTUsIm5iZiI6MTc2Mjc1OTc1NSwicGF0aCI6Ii8yMjYyMzg2NzUvNTEyMDE3MTE4LTk1NDM5MTZmLTRhMTgtNDI1YS1iOTQwLWMzNTYyYzEyODQzOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTExMFQwNzI5MTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MmY2NmI1NTRlYTgxZjQ4NzcyMWRiZDA2NDkwMGYxNDJjZTQ5OGY2ZWQyODYyNTA4NTc1MTlkYTBjM2IwMTZjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.OrvEq4LUK2kByy1Oqc5kln3z6Nx8-qw6jqY4uejrOdg" alt="Hero Preview" style="border-radius: 8px;"/>
   <div style="display: flex; justify-content: space-between; margin: 20px 0;">
     <img src="https://github.com/mariselvam-arumuganainar/mariselvam-portfolio/issues/2#issue-3606522523" alt="Work Preview" style="width: 32%; border-radius: 8px;"/>
     <img src="https://github.com/user-attachments/assets/f22b9749-85ed-434f-a5f6-df1f8e221103" alt="Contact Summary" style="width: 32%; border-radius: 8px;"/>
